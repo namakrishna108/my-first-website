@@ -50,4 +50,22 @@ hr {
     transform: translateY(0);
   }
 }
+.nav-buttons {
+  margin-bottom: 20px;
+}
+
+.nav-buttons a {
+  text-decoration: none;
+  color: white;
+  background: #ff6f61;
+  padding: 8px 16px;
+  border-radius: 8px;
+  margin: 0 5px;
+  transition: background 0.3s;
+}
+
+.nav-buttons a:hover {
+  background: #ff3b2f;
+}
+
 
